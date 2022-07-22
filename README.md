@@ -10,8 +10,9 @@ Blockchain is a shared, immutable digital technique that stores transactions ove
 # Usage/Examples
 
 Module to generate encrypted messges:
-
+```
 import hashlib
+```
 
 Create object of class Blockchain:
 
