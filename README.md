@@ -15,21 +15,22 @@ import hashlib
 ```
 
 Create object of class Blockchain:
-
+```
 myblockchain=Blockchain()
-
+```
 Store transactions in the form of strings:
-
+```
 t1='Vansh sends Rs. 5 to Shaurya'
 t2='Shaurya sends Rs. 20  to Tushar'
 t3='Tushar sends Rs. 40 to Rohit'
 t4='Rohit sends Rs. 11 to Ritik'
-
+```
 Now create a Blockchain:
-
+```
 myblockchain.create_block_from_transactions([t1, t2])
 myblockchain.create_block_from_transactions([t3,t4])
-
+```
 Print the Blockchain:
-
+```
 myblockchain.display_chain()
+```
