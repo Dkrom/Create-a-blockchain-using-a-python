@@ -2,12 +2,12 @@
 
 Blockchain is a shared, immutable digital technique that stores transactions over a decentralized network of computers.
 
-#Screen-shots
+# Screen-shots
 
 ![how-blockchain-work](https://user-images.githubusercontent.com/86722467/180414371-a23649f7-8e30-4962-b2a5-73c104210969.png)
 ![blockchain_screenshot](https://user-images.githubusercontent.com/86722467/180414813-6cc55bad-11e9-4d9e-80de-578ebe6e1b68.png)
 
-#Usage/Examples
+# Usage/Examples
 
 Module to generate encrypted messges:
 
